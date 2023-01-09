@@ -36,4 +36,4 @@ int is_palindrome(listint_t **head)
 
 	free(list_arr);
 	return (1);
-}
+
